@@ -1,0 +1,19 @@
+# ฝั่ง JavaScript
+node_modules/
+dist/
+
+# ฝั่ง Python
+.venv/
+__pycache__/
+*.pyc
+
+# ความลับ / การตั้งค่าเฉพาะเครื่อง
+.env
+.env.*
+!.env.example
+
+# ไฟล์ของระบบปฏิบัติการและ editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
